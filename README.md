@@ -1,0 +1,1 @@
+# Redu-o-dos-Custos-em-Farm-cia-com-AWS
